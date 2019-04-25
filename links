@@ -1,0 +1,19 @@
+Tegola - https://tegola.io/
+  description: An open source vector tile server written in Go, Tegola takes geospatial data and slices it into vector tiles that can be efficiently delivered to any client.
+
+mapnik - https://mapnik.org/
+  description: 
+  
+OpenStreetMapWiki - https://wiki.openstreetmap.org/wiki/Develop
+  descriprion: Official documentation for osm. It is very informative to understand basics and terms of osm
+               In addition it contains information about server and client side code. Also links to libraries.
+
+SwitchToOsm - https://switch2osm.org
+  description: System requirements for tile server and tutorial with images.
+
+
+
+*** TODO check it out
+https://av.tib.eu/media/32107
+https://www.maptiler.com/
+
